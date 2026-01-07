@@ -1,7 +1,6 @@
 SALES ANALYTICS AND APPLICATION:-
 Introduction
-This project is a Python-based Sales Analytics Application designed to process raw sales records, validate them, perform analytical calculations, and generate a summarized sales report.
-The project is developed as part of a Masai School evaluation assignment to demonstrate file handling, data processing, and report generation using Python.
+This project is a Python-based Sales Analytics Application designed to process raw sales records, validate them, perform analytical calculations, and generate a summarized sales report.The project is developed as part of a Masai School evaluation assignment to demonstrate file handling, data processing, and report generation using Python.
 
 PROJECT STRUCTURE:-
 sales-analytics-system/
@@ -40,5 +39,7 @@ After execution, a file named sales_report.txt is created inside the output/ fol
 
 AUTHOR:-
 RIYA TAMBOLI
+Student ID: bitsom_ba_25071586
+
 
 
