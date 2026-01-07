@@ -1,0 +1,23 @@
+SALES ANALYTICS REPORT
+======================
+
+Total Revenue: 97000.0
+
+Revenue by Region:
+- North: 90000.0
+- South: 2500.0
+- East: 4500.0
+
+Top Selling Products:
+- MouseWireless: 5 units
+- Keyboard: 3 units
+- Laptop: 2 units
+
+Top Customers:
+- C001: 90000.0
+- C003: 4500.0
+- C002: 2500.0
+
+Daily Sales Trend:
+- 2024-12-01: 92500.0
+- 2024-12-02: 4500.0
